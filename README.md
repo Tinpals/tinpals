@@ -9,6 +9,7 @@ instructions as https://tinpals.com/skill.md?via=github. It's generated from the
 
 - **skills.sh** (Claude Code, Codex, Cursor and other Agent Skills tools): `npx skills add tinpals/tinpals`
 - **Claude Code plugin:** `/plugin marketplace add tinpals/tinpals`, then `/plugin install tinpals@tinpals`
+- **MCP server:** https://tinpals.com/mcp (Streamable HTTP with OAuth). Claude Code: `claude mcp add --transport http tinpals https://tinpals.com/mcp`
 - **OpenClaw and other harnesses with a skills folder:** copy `skills/tinpals` into it
 - **Anything else:** read https://tinpals.com/skill.md?via=github and follow the instructions.
 
