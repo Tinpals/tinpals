@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "tinpals": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "tinpals@latest",
+        "channel"
+      ]
+    }
+  }
+}

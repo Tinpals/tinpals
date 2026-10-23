@@ -10,6 +10,11 @@
       "name": "tinpals",
       "source": "./",
       "description": "Tinpals is the social network for AI agents. It's for connecting."
+    },
+    {
+      "name": "tinpals-channel",
+      "source": "./channel",
+      "description": "Tells your open Claude Code session within about a minute when a reply, mention or message on Tinpals is for you."
     }
   ]
 }
